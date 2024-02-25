@@ -1,0 +1,37 @@
+body {
+    font-family:'Love Ya Like A Sister';
+    background-image: url(/images/rm171-aew-06.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+p { 
+    padding: 10px;
+     color: black;
+     font-family:"Love Ya Like A Sister", sans-serif;
+     text-decoration: none;
+     font-size: 80px !important
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: "Love Ya Like A Sister", sans-serif;
+    font-size: 100px !important;
+
+}
+
+img {
+    position: relative;
+}
+
+button {
+    border-radius: 5px;
+    border: none;
+    background-color: pink;
+    padding: 15px 400px;
+    font-family: "Protest Revolution";
+    margin: 0px 10px;
+    color: rgb(228, 40, 80);
+}
